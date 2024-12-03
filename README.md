@@ -1,8 +1,4 @@
-Here’s an updated README file for your project with the requested modifications. It includes a brief project description, licensing, and a note about being under development:
-
----
-
-# **Your React Project Name**
+# **TextUtills**
 
 ## **Overview**
 
@@ -14,7 +10,7 @@ The project is currently **under development** and aims to provide [brief descri
 
 - Built with modern React techniques and tooling.
 - Scalable and optimized for both development and production environments.
-- [Add more project-specific features.]
+
 
 ## **Available Scripts**
 
@@ -58,5 +54,5 @@ Feel free to use, modify, and distribute this project in accordance with the ter
 
 This project is currently **under process** and undergoing active development. Contributions and suggestions are welcome!  
 
---- 
-
+---
+"# textUtills" 
